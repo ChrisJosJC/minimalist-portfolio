@@ -1,0 +1,203 @@
+{
+    "basics": {
+      "name": "Chris Joseph",
+      "label": "Full Stack Web Developer",
+      "image": "https://i.imgur.com/gGEySKE.jpeg",
+      "email": "chrisjoseph380@gmail.com",
+      "phone": "849-353-4410",
+      "url": "https://cortfolio.vercel.app",
+      "summary": [
+        "A young Full Stack Web Developer from the Dominican Republic. Independently mastering front-end and back-end technologies, my projects reflect a commitment to continuous learning. I aspire to contribute meaningfully to the global web development community, marking the beginning of an exciting journey.",
+        "My passion for web development propels me towards new heights, combining knowledge with innovation. With a thirst for learning and a knack for problem-solving, I'm actively shaping the digital landscape. Anticipate the impact of my contributions in the ever-evolving realm of Full Stack Web Development."
+      ],
+      "location": {
+        "address": "Calle Juan Lora #7",
+        "postalCode": "CA 94115",
+        "city": "San Pedro de Macoris",
+        "countryCode": "DOP",
+        "region": "Barrio 24 de Abril"
+      },
+      "profiles": [{
+        "network": "X",
+        "username": "@Chris_J_Carty",
+        "url": "https://x.com/chrisjosjc"
+      },
+      {
+        "network": "GitHub",
+        "username": "ChrisJosJC",
+        "url": "https://github.com/ChrisJosJC"
+      }
+    ]
+    },
+    "work": [
+      {
+          "name": "WebCrafters Inc.",
+          "position": "Senior Front-End Developer",
+          "url": "https://webcraftersinc.com",
+          "startDate": "2022-05-10",
+          "endDate": null,
+          "summary": "Contributed expertise in front-end development to create visually appealing and responsive websites. Collaborated with cross-functional teams to deliver high-quality web solutions.",
+          "highlights": [
+              "Implemented modern front-end frameworks such as React to enhance user interfaces.",
+              "Led the optimization efforts resulting in a 20% improvement in website loading times."
+          ]
+      },
+      {
+          "name": "CodeNinjas Agency",
+          "position": "Full-Stack Developer",
+          "url": "https://codeninjasagency.net",
+          "startDate": "2015-02-01",
+          "endDate": "2022-04-30",
+          "summary": "Engaged in end-to-end development, from server-side logic to user interface implementation. Successfully delivered scalable and robust web applications tailored to clients' specific needs.",
+          "highlights": [
+              "Developed custom API integrations to enhance the functionality of client websites.",
+              "Collaborated with design teams to ensure seamless integration of UI/UX elements."
+          ]
+      }
+  ]
+  ,
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Instituto Politecnico Pedro Feliciano Martinez",
+      "url": "https://www.facebook.com/ippfm/?locale=es_LA",
+      "area": "Informatica",
+      "studyType": "Bachelor",
+      "startDate": "2021-08-22",
+      "endDate": "2024-06-05",
+      "score": "4.0",
+      "courses": [
+        "Gestion, mantenimiento y creacion de base de datos",
+        "Desarrollo, implementation y despliegue de Software",
+        "Ofimatica"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+      "name": "HTML5",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "CSS3",
+      "level": "Master",
+      "keywords": []
+    },
+      {
+      "name": "Javascript",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "React",
+      "level": "Master",
+      "keywords": []
+    },
+      {
+      "name": "PHP",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "Master",
+      "keywords": []
+    },
+      {
+      "name": "Astro",
+      "level": "Master",
+      "keywords": []
+    },
+      {
+      "name": "Git",
+      "level": "Master",
+      "keywords": []
+    },
+      {
+      "name": "Github",
+      "level": "Master",
+      "keywords": []
+    },
+      {
+      "name": "Tailwind",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "NextJS",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+      "name": "Piniors",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive":false,
+      "description": "A practice development about a page with games for developers.",
+      "highlights": [
+        "PHP",
+        "MVC"
+      ],
+      "url": "https://piniors.com/"
+    },
+      {
+      "name": "Makerly",
+      "isActive":true,
+
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "An application for photographs and videographs who wants to make a professional portfolio.",
+      "highlights": [
+        "Pocketbase",
+        "Astro",
+        "Handle files"
+      ],
+      "url": "https://project.com/"
+    }
+  ]
+  }  
